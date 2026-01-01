@@ -1,4 +1,7 @@
 testfile- hello 
 this is a file from git 
+<<<<<<< HEAD
 
 this is a change from local 
+=======
+>>>>>>> aa3be63 (Add a new line to testfile)
